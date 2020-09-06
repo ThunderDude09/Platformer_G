@@ -658,3 +658,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.06-01.01.38:675][677]LogSlate: Window 'Project Settings' being destroyed
 [2020.09.06-01.01.38:680][677]LogSlate: Window 'Project Settings' being destroyed
 [2020.09.06-01.01.43:256][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.06-01.07.43:491][733]LogSlate: Window 'Save Level As' being destroyed
+[2020.09.06-01.07.43:537][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.09.06-01.07.43:556][733]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Saved/MyLevelBA512F8C4DFAB0D93F9650BD68687084.tmp' to '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/MyLevel.umap'
+[2020.09.06-01.07.43:607][733]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Saved/MyLevel_BuiltDataCE098260453160876D69A2BD444B436C.tmp' to '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/MyLevel_BuiltData.uasset'
+[2020.09.06-01.07.43:616][733]LogFileHelpers: Saving map 'MyLevel' took 0.121
+[2020.09.06-01.07.43:617][733]Cmd: MAP LOAD FILE="../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.06-01.07.43:638][733]LightingResults: New page: Lighting Build
+[2020.09.06-01.07.43:638][733]LoadErrors: New page: Loading map: MyLevel.umap
+[2020.09.06-01.07.43:639][733]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-01.07.43:639][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.06-01.07.43:639][733]MapCheck: New page: Map Check
+[2020.09.06-01.07.43:639][733]LightingResults: New page: Lighting Build
+[2020.09.06-01.07.43:649][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002AA17CD7000), frame # 33733
+[2020.09.06-01.07.43:649][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002AA17FC2200), frame # 33733
+[2020.09.06-01.07.43:649][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.06-01.07.43:657][733]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.06-01.07.43:657][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002AA28E48E00), frame # 33733
+[2020.09.06-01.07.43:657][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002AA28ADF240), frame # 33733
+[2020.09.06-01.07.43:660][733]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.06-01.07.43:670][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.06-01.07.43:713][733]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.06-01.07.43:713][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.09.06-01.07.43:713][733]LogFileHelpers: Loading map 'MyLevel' took 0.096
+[2020.09.06-01.07.43:721][733]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.06-01.07.43:721][733]LogContentValidation: Display: Validating World /Game/MyLevel.MyLevel
+[2020.09.06-01.07.43:721][733]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyLevel_BuiltData.MyLevel_BuiltData
+[2020.09.06-01.14.13:945][855]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.06-01.14.47:059][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpMyCharacter.BpMyCharacter
+[2020.09.06-01.14.47:239][791]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.09.06-01.14.51:267][816]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.06-01.15.28:806][ 47]BlueprintLog: New page: Compile BpMyCharacter
+[2020.09.06-01.15.28:855][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.09.06-01.15.28:893][ 47]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.06-01.15.30:622][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpMyCharacter" FILE="../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/BpMyCharacter.uasset" SILENT=true
+[2020.09.06-01.15.30:641][233]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Saved/BpMyCharacter43BF2A8F48E58140E55F3C974868AFED.tmp' to '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/BpMyCharacter.uasset'
+[2020.09.06-01.15.30:654][233]AssetCheck: New page: Asset Save: BpMyCharacter
+[2020.09.06-01.15.30:655][233]LogContentValidation: Display: Validating Blueprint /Game/BpMyCharacter.BpMyCharacter
+[2020.09.06-01.15.33:170][504]LogSlate: Window 'BpMyCharacter' being destroyed
+[2020.09.06-01.15.33:173][504]LogSlate: Window 'BpMyCharacter' being destroyed
+[2020.09.06-01.15.33:195][504]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-01.15.33:196][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.06-01.15.51:256][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpGameMode.BpGameMode
+[2020.09.06-01.16.10:644][665]LogSlate: Window 'BpGameMode' being destroyed
+[2020.09.06-01.16.10:648][665]LogSlate: Window 'BpGameMode' being destroyed
+[2020.09.06-01.16.10:665][665]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-01.16.10:665][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.06-01.16.24:173][939]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BpGameMode.BpGameMode
+[2020.09.06-01.16.28:446][395]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.06-01.16.38:877][592]BlueprintLog: New page: Compile BpGameMode
+[2020.09.06-01.16.38:917][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.09.06-01.16.40:021][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BpGameMode" FILE="../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/BpGameMode.uasset" SILENT=true
+[2020.09.06-01.16.40:042][717]LogSavePackage: Moving '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Saved/BpGameModeFCDF49FE4B71C783D04FC8A45DB81A09.tmp' to '../../../../../../Users/Brayden/Documents/UnrealG/Platformer/Platformer/PlatFormer game/Platformer/Content/BpGameMode.uasset'
+[2020.09.06-01.16.40:053][717]AssetCheck: New page: Asset Save: BpGameMode
+[2020.09.06-01.16.40:053][717]LogContentValidation: Display: Validating Blueprint /Game/BpGameMode.BpGameMode
+[2020.09.06-01.16.42:007][942]LogSlate: Window 'BpGameMode' being destroyed
+[2020.09.06-01.16.42:010][942]LogSlate: Window 'BpGameMode' being destroyed
+[2020.09.06-01.16.42:011][942]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-01.16.42:011][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.06-01.17.00:408][ 55]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.06-01.17.08:759][ 25]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.06-01.17.08:762][ 25]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.06-01.17.12:548][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
